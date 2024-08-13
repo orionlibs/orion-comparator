@@ -1,6 +1,6 @@
 package io.github.orionlibs.orion_comparator;
 
-import com.orion.core.comparator.tasks.ReverseCompareToTask;
+import io.github.orionlibs.orion_comparator.tasks.ReverseCompareToTask;
 
 public class ReverseCompareToService<T>
 {

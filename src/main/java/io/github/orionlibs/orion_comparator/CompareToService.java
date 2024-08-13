@@ -1,6 +1,6 @@
 package io.github.orionlibs.orion_comparator;
 
-import com.orion.core.comparator.tasks.CompareToTask;
+import io.github.orionlibs.orion_comparator.tasks.CompareToTask;
 
 public class CompareToService<T>
 {
